@@ -1,0 +1,14 @@
+body {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.photo-gallery {
+    display: flex;
+    
+}
+
+.photo-gallery img {
+    height: 10em;
+    width: 10em;
+}
